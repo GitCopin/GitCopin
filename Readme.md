@@ -29,7 +29,7 @@ github.com/gitcopin
 	- A Windows app written in C# to aid in positioning (translating, rotating, scaling) photos in a layout or multiple layouts, optionally adding border and corner decorations. The app will then export the placed photo or photo layout to their specific placeholder images, later to be used as textures in a 3D rendered scene.
 - Video editor - creating Life Story Digital Films for funerals.
 	- Editing a Lifestory(R) for length.
-	- Arranging photos to go along with the Lifestory as much as possible in an editors timeline.
+	- Arranging photos to go along with the Lifestory as much as possible in the editors timeline.
 	- Adding stock music tracks and stock video or animation as needed then exporting final product for upload.
 - Shot video and created 3D animated stock footage for backgrounds and b-roll in videos.
 - Product photography (folders, cards, books, DVDs) using various lighting setups (soft-boxes, gels, diffusers).
@@ -115,4 +115,4 @@ Electronics projects involving designing and building circuits and programming m
 Video editing and Motion Graphics for various personal projects.
 
 -----
-_v2021.08.25_
+_v2021.09.27_
